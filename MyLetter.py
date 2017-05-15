@@ -1,0 +1,15 @@
+spaces = ' ' * 25
+print('%s Hiroshi Ashikaga' % spaces)
+print('%s  700 W Timonium Rd' % spaces)
+print('%s Luthervill MD 21093' % spaces)
+print()
+print()
+print('Dear Dad,')
+print()
+print('Hi! Thank you for being my dad. ')
+print('Also thank you for always helping ')
+print('me with my homework!')
+print()
+print('Love,')
+print('Your Kid Maya')
+print

@@ -1,0 +1,8 @@
+adjective = input("Please enter an adjective: ")
+noun = input("Please enter a noun: ")
+verb = input("Please enter a verb ending in -ed: ")
+adjective2 = input("Please enter another adjective: ")
+color = input("Please enter your favorite color: ")
+animal = input("Please enter an animal name: ")
+print("Your MadLib:")
+print("The", adjective, noun, verb, "over the", adjective2, color, animal,".")
